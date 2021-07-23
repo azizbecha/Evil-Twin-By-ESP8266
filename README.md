@@ -3,7 +3,7 @@
 # How To Use ?
 
 
-1- Install #Arduino IDE
+1- Install the [Arduino IDE](https://www.arduino.cc/en/software)
 
 
 2- Install ESP8266 Library
